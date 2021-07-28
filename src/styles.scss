@@ -1,0 +1,10 @@
+body {
+  font-family: sans-serif;
+}
+
+.list {
+
+  &__item {
+    outline: 1px solid blue;
+  }
+}
